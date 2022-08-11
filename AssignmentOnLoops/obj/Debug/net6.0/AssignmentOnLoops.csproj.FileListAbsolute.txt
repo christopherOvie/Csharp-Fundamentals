@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\AssignmentOnLoops.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\AssignmentOnLoops.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\AssignmentOnLoops.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\AssignmentOnLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\ref\AssignmentOnLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\bin\Debug\net6.0\AssignmentOnLoops.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\ref\AssignmentOnLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.genruntimeconfig.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentOnLoops\obj\Debug\net6.0\AssignmentOnLoops.csproj.AssemblyReference.cache

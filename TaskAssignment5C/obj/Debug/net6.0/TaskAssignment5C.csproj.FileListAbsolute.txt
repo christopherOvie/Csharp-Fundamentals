@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\TaskAssignment5C.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\TaskAssignment5C.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\TaskAssignment5C.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\TaskAssignment5C.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\ref\TaskAssignment5C.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\bin\Debug\net6.0\TaskAssignment5C.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\ref\TaskAssignment5C.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\TaskAssignment5C\obj\Debug\net6.0\TaskAssignment5C.genruntimeconfig.cache

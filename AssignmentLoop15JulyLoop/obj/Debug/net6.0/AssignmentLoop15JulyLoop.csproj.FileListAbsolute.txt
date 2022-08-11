@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\AssignmentLoop15JulyLoop.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\AssignmentLoop15JulyLoop.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\AssignmentLoop15JulyLoop.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\AssignmentLoop15JulyLoop.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\ref\AssignmentLoop15JulyLoop.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\bin\Debug\net6.0\AssignmentLoop15JulyLoop.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\ref\AssignmentLoop15JulyLoop.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentLoop15JulyLoop\obj\Debug\net6.0\AssignmentLoop15JulyLoop.genruntimeconfig.cache

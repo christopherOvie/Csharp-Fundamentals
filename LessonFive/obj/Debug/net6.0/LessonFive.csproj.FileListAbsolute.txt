@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\LessonFive.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\LessonFive.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\LessonFive.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\LessonFive.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\ref\LessonFive.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\bin\Debug\net6.0\LessonFive.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\ref\LessonFive.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonFive\obj\Debug\net6.0\LessonFive.genruntimeconfig.cache

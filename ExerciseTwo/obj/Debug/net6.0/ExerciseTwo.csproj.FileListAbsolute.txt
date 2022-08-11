@@ -1,0 +1,5 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.CoreCompileInputs.cache

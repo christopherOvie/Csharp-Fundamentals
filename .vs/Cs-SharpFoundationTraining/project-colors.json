@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d28df865-5b29-41a6-8c8a-d5ad22e8b27b": {
+      "ProjectGuid": "d28df865-5b29-41a6-8c8a-d5ad22e8b27b",
+      "DisplayName": "LessonTwo",
+      "ColorIndex": 0
+    },
+    "7d4fa46f-efa3-4151-b024-5018466e4ffd": {
+      "ProjectGuid": "7d4fa46f-efa3-4151-b024-5018466e4ffd",
+      "DisplayName": "Lesson1",
+      "ColorIndex": 1
+    },
+    "10a74f47-9ab5-4bef-9e79-efcc0772da10": {
+      "ProjectGuid": "10a74f47-9ab5-4bef-9e79-efcc0772da10",
+      "DisplayName": "Cs-SharpFoundationTraining",
+      "ColorIndex": 2
+    },
+    "50736e74-df3b-48c8-ae75-c8676631e5d7": {
+      "ProjectGuid": "50736e74-df3b-48c8-ae75-c8676631e5d7",
+      "DisplayName": "RevisionOne",
+      "ColorIndex": 3
+    },
+    "3a0e8537-e879-4bc0-acc7-04cb52877c45": {
+      "ProjectGuid": "3a0e8537-e879-4bc0-acc7-04cb52877c45",
+      "DisplayName": "Revision",
+      "ColorIndex": 4
+    },
+    "2150bdf4-8a3e-4ab1-974a-339515422155": {
+      "ProjectGuid": "2150bdf4-8a3e-4ab1-974a-339515422155",
+      "DisplayName": "LessonThree",
+      "ColorIndex": 5
+    },
+    "c8bca732-61bc-4b75-99c0-893bd90e634d": {
+      "ProjectGuid": "c8bca732-61bc-4b75-99c0-893bd90e634d",
+      "DisplayName": "ExerciseClass3",
+      "ColorIndex": 6
+    },
+    "23b83d9f-8cd4-4d2b-b751-e8b5e73da312": {
+      "ProjectGuid": "23b83d9f-8cd4-4d2b-b751-e8b5e73da312",
+      "DisplayName": "Exercise3LessonThree",
+      "ColorIndex": 7
+    },
+    "dd179524-ac0e-4e8e-84b5-aaa2ee51c968": {
+      "ProjectGuid": "dd179524-ac0e-4e8e-84b5-aaa2ee51c968",
+      "DisplayName": "ExerciseTwo",
+      "ColorIndex": 8
+    },
+    "85215096-8c64-4fa1-a0b4-366def6c1359": {
+      "ProjectGuid": "85215096-8c64-4fa1-a0b4-366def6c1359",
+      "DisplayName": "LessonFour",
+      "ColorIndex": 9
+    },
+    "ee4ea204-a027-4c23-9940-911884ece21a": {
+      "ProjectGuid": "ee4ea204-a027-4c23-9940-911884ece21a",
+      "DisplayName": "LessonFive",
+      "ColorIndex": 10
+    },
+    "df18c1e0-51e5-4eb5-8ada-b13b27aee54f": {
+      "ProjectGuid": "df18c1e0-51e5-4eb5-8ada-b13b27aee54f",
+      "DisplayName": "Task5Homework",
+      "ColorIndex": 11
+    },
+    "aaf38941-852a-4133-be23-233c67b12670": {
+      "ProjectGuid": "aaf38941-852a-4133-be23-233c67b12670",
+      "DisplayName": "Task5HomeworkExercise1",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e1313b7a-c1fa-435b-9b40-ab71a9e28b15": {
+      "ProjectGuid": "e1313b7a-c1fa-435b-9b40-ab71a9e28b15",
+      "DisplayName": "Homework5First",
+      "ColorIndex": 13
+    },
+    "3f93e1cb-6dac-4006-aea7-f10f09526568": {
+      "ProjectGuid": "3f93e1cb-6dac-4006-aea7-f10f09526568",
+      "DisplayName": "Lesson6",
+      "ColorIndex": 14
+    },
+    "fec2d930-0c90-4aa6-9295-163b0242ed1e": {
+      "ProjectGuid": "fec2d930-0c90-4aa6-9295-163b0242ed1e",
+      "DisplayName": "Arguments",
+      "ColorIndex": 15
+    },
+    "c9deb974-789b-4288-a0b1-832d41d44458": {
+      "ProjectGuid": "c9deb974-789b-4288-a0b1-832d41d44458",
+      "DisplayName": "ExerciseSevenPractice",
+      "ColorIndex": 0
+    },
+    "808235b2-65e9-470d-9958-9bd454de66f8": {
+      "ProjectGuid": "808235b2-65e9-470d-9958-9bd454de66f8",
+      "DisplayName": "Loops",
+      "ColorIndex": 1
+    },
+    "0f2a749b-fadf-473c-9a67-53716a3a830a": {
+      "ProjectGuid": "0f2a749b-fadf-473c-9a67-53716a3a830a",
+      "DisplayName": "Arrays",
+      "ColorIndex": 2
+    },
+    "be67dccc-f8e2-4390-a930-c409f657f348": {
+      "ProjectGuid": "be67dccc-f8e2-4390-a930-c409f657f348",
+      "DisplayName": "List",
+      "ColorIndex": 3
+    },
+    "894c6f90-3cb6-4d23-96cd-078ccb301ce9": {
+      "ProjectGuid": "894c6f90-3cb6-4d23-96cd-078ccb301ce9",
+      "DisplayName": "CorrectedAssignmentLoops",
+      "ColorIndex": 4
+    },
+    "9916d35c-51a4-4ce1-8bd5-de949353e555": {
+      "ProjectGuid": "9916d35c-51a4-4ce1-8bd5-de949353e555",
+      "DisplayName": "TaskAssignment5B",
+      "ColorIndex": 5
+    },
+    "986eec80-fbec-4fe9-a0b2-e59dfb9d15d6": {
+      "ProjectGuid": "986eec80-fbec-4fe9-a0b2-e59dfb9d15d6",
+      "DisplayName": "TaskAssignment5C",
+      "ColorIndex": 6
+    },
+    "e5b638e5-0d04-4e17-b93e-8b33eb6ab229": {
+      "ProjectGuid": "e5b638e5-0d04-4e17-b93e-8b33eb6ab229",
+      "DisplayName": "AssignmentOnLoops",
+      "ColorIndex": 7
+    },
+    "79825a7d-f70f-4f2f-a431-a04645a74fa6": {
+      "ProjectGuid": "79825a7d-f70f-4f2f-a431-a04645a74fa6",
+      "DisplayName": "LoopingSecondExercisePractice",
+      "ColorIndex": 8
+    },
+    "770c6fc6-7c18-4589-a872-6765590a3e1c": {
+      "ProjectGuid": "770c6fc6-7c18-4589-a872-6765590a3e1c",
+      "DisplayName": "LoopingFirstExercicePractice",
+      "ColorIndex": 9
+    },
+    "19be69aa-c3dd-489c-b485-e53429fe2a8c": {
+      "ProjectGuid": "19be69aa-c3dd-489c-b485-e53429fe2a8c",
+      "DisplayName": "ArrayTolistJuly16Assignment",
+      "ColorIndex": 10
+    },
+    "b939d36e-3024-4dac-b9c5-78572cff1761": {
+      "ProjectGuid": "b939d36e-3024-4dac-b9c5-78572cff1761",
+      "DisplayName": "ChangeArrayToList",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

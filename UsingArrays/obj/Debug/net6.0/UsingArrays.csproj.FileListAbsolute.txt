@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\UsingArrays.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\UsingArrays.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\UsingArrays.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\UsingArrays.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\ref\UsingArrays.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\bin\Debug\net6.0\UsingArrays.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\ref\UsingArrays.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.genruntimeconfig.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\UsingArrays\obj\Debug\net6.0\UsingArrays.csproj.AssemblyReference.cache

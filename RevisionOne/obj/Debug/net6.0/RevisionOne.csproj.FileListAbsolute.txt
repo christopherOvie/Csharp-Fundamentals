@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\RevisionOne.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\RevisionOne.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\RevisionOne.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\RevisionOne.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\ref\RevisionOne.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\bin\Debug\net6.0\RevisionOne.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\ref\RevisionOne.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\RevisionOne\obj\Debug\net6.0\RevisionOne.genruntimeconfig.cache

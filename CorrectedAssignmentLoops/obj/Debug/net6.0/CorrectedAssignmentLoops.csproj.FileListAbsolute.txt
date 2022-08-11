@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\CorrectedAssignmentLoops.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\CorrectedAssignmentLoops.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\CorrectedAssignmentLoops.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\CorrectedAssignmentLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\ref\CorrectedAssignmentLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\bin\Debug\net6.0\CorrectedAssignmentLoops.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\ref\CorrectedAssignmentLoops.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\CorrectedAssignmentLoops\obj\Debug\net6.0\CorrectedAssignmentLoops.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\LessonTwo.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\LessonTwo.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\LessonTwo.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\LessonTwo.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\ref\LessonTwo.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\bin\Debug\net6.0\LessonTwo.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\ref\LessonTwo.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LessonTwo\obj\Debug\net6.0\LessonTwo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ExerciseSevenPractice.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ExerciseSevenPractice.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ExerciseSevenPractice.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ExerciseSevenPractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ref\ExerciseSevenPractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\bin\Debug\net6.0\ExerciseSevenPractice.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ref\ExerciseSevenPractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.genruntimeconfig.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ExerciseSevenPractice\obj\Debug\net6.0\ExerciseSevenPractice.csproj.AssemblyReference.cache

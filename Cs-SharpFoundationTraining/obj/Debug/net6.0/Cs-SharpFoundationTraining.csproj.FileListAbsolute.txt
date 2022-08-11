@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\Cs-SharpFoundationTraining.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\Cs-SharpFoundationTraining.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\Cs-SharpFoundationTraining.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\Cs-SharpFoundationTraining.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\ref\Cs-SharpFoundationTraining.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\bin\Debug\net6.0\Cs-SharpFoundationTraining.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\ref\Cs-SharpFoundationTraining.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Cs-SharpFoundationTraining\obj\Debug\net6.0\Cs-SharpFoundationTraining.genruntimeconfig.cache

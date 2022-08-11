@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ListExercise2Sat23July.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ListExercise2Sat23July.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ListExercise2Sat23July.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ListExercise2Sat23July.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ref\ListExercise2Sat23July.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\bin\Debug\net6.0\ListExercise2Sat23July.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ref\ListExercise2Sat23July.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListExercise2Sat23July\obj\Debug\net6.0\ListExercise2Sat23July.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\Task5Homework.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\Task5Homework.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\Task5Homework.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\Task5Homework.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\ref\Task5Homework.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\bin\Debug\net6.0\Task5Homework.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\ref\Task5Homework.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Task5Homework\obj\Debug\net6.0\Task5Homework.genruntimeconfig.cache

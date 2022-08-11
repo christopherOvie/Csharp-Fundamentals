@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ListJuly23ClassSat.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ListJuly23ClassSat.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ListJuly23ClassSat.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ListJuly23ClassSat.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ref\ListJuly23ClassSat.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\bin\Debug\net6.0\ListJuly23ClassSat.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ref\ListJuly23ClassSat.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ListJuly23ClassSat\obj\Debug\net6.0\ListJuly23ClassSat.genruntimeconfig.cache

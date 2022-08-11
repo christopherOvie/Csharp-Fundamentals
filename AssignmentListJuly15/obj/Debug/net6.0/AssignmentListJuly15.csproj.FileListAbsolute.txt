@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\AssignmentListJuly15.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\AssignmentListJuly15.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\AssignmentListJuly15.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\AssignmentListJuly15.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\ref\AssignmentListJuly15.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\bin\Debug\net6.0\AssignmentListJuly15.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\ref\AssignmentListJuly15.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\AssignmentListJuly15\obj\Debug\net6.0\AssignmentListJuly15.genruntimeconfig.cache

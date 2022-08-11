@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\LoopingFirstExercicePractice.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\LoopingFirstExercicePractice.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\LoopingFirstExercicePractice.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\LoopingFirstExercicePractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\ref\LoopingFirstExercicePractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\bin\Debug\net6.0\LoopingFirstExercicePractice.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\ref\LoopingFirstExercicePractice.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.genruntimeconfig.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\LoopingFirstExercicePractice\obj\Debug\net6.0\LoopingFirstExercicePractice.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\Exercise3LessonThree.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\Exercise3LessonThree.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\Exercise3LessonThree.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\Exercise3LessonThree.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\ref\Exercise3LessonThree.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\bin\Debug\net6.0\Exercise3LessonThree.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.csproj.AssemblyReference.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\ref\Exercise3LessonThree.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\Exercise3LessonThree\obj\Debug\net6.0\Exercise3LessonThree.genruntimeconfig.cache

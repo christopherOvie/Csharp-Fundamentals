@@ -1,0 +1,14 @@
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ChangeArrayToList.exe
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ChangeArrayToList.deps.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ChangeArrayToList.runtimeconfig.json
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ChangeArrayToList.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ref\ChangeArrayToList.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\bin\Debug\net6.0\ChangeArrayToList.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.AssemblyInfoInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.AssemblyInfo.cs
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.csproj.CoreCompileInputs.cache
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ref\ChangeArrayToList.dll
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.pdb
+C:\Users\odibo ovie\source\repository\Cs-SharpFoundationTraining\ChangeArrayToList\obj\Debug\net6.0\ChangeArrayToList.genruntimeconfig.cache
